@@ -59,3 +59,8 @@ CS------------->PC9
 ### 注意:
 
 STM32F103C8/RB/RC等低端芯片均建议采用此模板进行软件开发
+
+ 
+## 许可
+
+[MIT](./LICENSE) &copy; [havenxie](http://github.com/havenxie)
